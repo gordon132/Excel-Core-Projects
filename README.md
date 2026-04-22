@@ -15,6 +15,6 @@ A payroll system that calculates employee salaries, overtime pay, and net pay us
 ### 3. Grading System
 A system that tracks performance in different tests and automatically calculates final grades using logical formulas.
 ### 4. Car Inventory System
-Organizes and tracks vehicle data including pricing, miles covered,driver details, and also the model of the vehicle among other functions.
+Organizes and tracks vehicle data including pricing, miles covered, driver details, and also the model of the vehicle among other functions.
 ### 5. Decision Support Model
 A simple decision model that compares career options using structured criteria and different scoring methods.
